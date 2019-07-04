@@ -22,3 +22,7 @@
     -   Change path in line "" to that of control text file 
 
     -   Run Movement program to play the motions recorded on kinect 
+    
+-   ROS package
+
+    -   Copy the "project_opanoid" folder into the source folder of your ROS workspace 

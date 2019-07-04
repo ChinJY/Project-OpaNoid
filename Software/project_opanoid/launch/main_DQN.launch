@@ -1,0 +1,21 @@
+<?xml version ="1.0" encoding = "UTF-8"?>
+
+<launch>
+  <include file="$(find gazebo_ros)/launch/empty_world.launch"></include>
+  
+  <rosparam command="load"
+            file="$(find project_opanoid)/config/servos.yaml"
+            ns="servo_controller" />
+          
+  <node name="opanoid_controller_spawner" pkg="controller_manager" type="spawner"
+    args="servo_controller
+          --shutdown-timeout 3"/>
+	
+  <include file = "$(find project_opanoid)/launch/spawn_urdf_DQN.launch">
+      <arg name = "x" value="0.0"/>
+      <arg name = "y" value = "0.0"/>
+      <arg name = "z" value = "0.0"/>
+      <arg name="paused" value = "false"/>
+      <arg name = "robot_name" value = "project_opanoid"/>
+  </include>
+</launch>

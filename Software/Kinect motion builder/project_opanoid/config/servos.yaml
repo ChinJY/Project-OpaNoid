@@ -1,0 +1,68 @@
+type: "position_controllers/JointGroupPositionController"
+publish_rate: 50
+joints: 
+ - leftThighX
+ - leftThighY 
+ - leftKnee
+ - rightThighX 
+ - rightThighY 
+ - rightKnee
+ - leftAnkleX
+ - leftAnkleY
+ - leftToe
+ - rightAnkleX
+ - rightAnkleY
+ - rightToe
+ 
+/gazebo_ros_control:   
+  pid_gains:
+    leftThighY:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+    leftThighX:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+    leftKnee:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+    rightThighY:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+    rightThighX:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+    rightKnee:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+    leftAnkleX:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+    leftAnkleY:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+    leftToe:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+    rightAnkleX:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+    rightAnkleY:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+    rightToe:
+      p: 100.0
+      i: 0.01 
+      d: 10.0
+
+
