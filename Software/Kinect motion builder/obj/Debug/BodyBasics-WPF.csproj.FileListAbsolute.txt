@@ -1,0 +1,181 @@
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\obj\Debug\MainWindow.baml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\obj\Debug\MainWindow.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\obj\Debug\App.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\MainWindow.baml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\MainWindow.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\App.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 3\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\MainWindow.baml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\MainWindow.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\App.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 5\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\MainWindow.baml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\MainWindow.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\App.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 6\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\MainWindow.baml
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\MainWindow.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\App.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Coding\Kinect\BodyBasics-WPF - test - 7\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\MainWindow.baml
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\MainWindow.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\App.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test -8\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\MainWindow.baml
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\MainWindow.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\App.g.cs
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Chin YT\Documents\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.exe
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Kinect\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.pdb
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.exe
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.pdb
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\MainWindow.baml
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\MainWindow.g.cs
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\App.g.cs
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.g.resources
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+D:\ChinJY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.exe
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.pdb
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\MainWindow.baml
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\MainWindow.g.cs
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\App.g.cs
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.g.resources
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 9\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\obj\Debug\BodyBasics-WPF.exe
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\obj\Debug\BodyBasics-WPF.pdb
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\obj\Debug\MainWindow.baml
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\obj\Debug\MainWindow.g.cs
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\obj\Debug\App.g.cs
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\obj\Debug\BodyBasics-WPF.g.resources
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WPF - test - 10\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+D:\Chin JY\Project Opanoid\Project OpaNoid repo\Software\Kinect motion builder\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\Chin JY\Project Opanoid\Project OpaNoid repo\Software\Kinect motion builder\obj\Debug\BodyBasics-WPF.exe
+D:\Chin JY\Project Opanoid\Project OpaNoid repo\Software\Kinect motion builder\obj\Debug\BodyBasics-WPF.pdb
