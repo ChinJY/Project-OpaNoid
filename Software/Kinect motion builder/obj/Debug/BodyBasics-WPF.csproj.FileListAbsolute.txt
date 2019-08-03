@@ -179,3 +179,6 @@ D:\Chin JY\Project Opanoid\Software\Project Opanoid\Joint tracking\BodyBasics-WP
 D:\Chin JY\Project Opanoid\Project OpaNoid repo\Software\Kinect motion builder\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
 D:\Chin JY\Project Opanoid\Project OpaNoid repo\Software\Kinect motion builder\obj\Debug\BodyBasics-WPF.exe
 D:\Chin JY\Project Opanoid\Project OpaNoid repo\Software\Kinect motion builder\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Chin YT\Documents\ChinJY\Project OpaNoid repo\Software\Kinect motion builder\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Chin YT\Documents\ChinJY\Project OpaNoid repo\Software\Kinect motion builder\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Chin YT\Documents\ChinJY\Project OpaNoid repo\Software\Kinect motion builder\obj\Debug\BodyBasics-WPF.pdb
