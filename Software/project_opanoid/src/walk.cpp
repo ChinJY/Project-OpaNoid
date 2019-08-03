@@ -12,7 +12,7 @@ int main(int argc, char **argv)
 {
 //	Read log file
 	FILE *myFile;
-	myFile = fopen("/home/cjy/Cpp_programs/data_log_full_legs_walk.txt", "r");
+	myFile = fopen("walk_data/data_log_full_legs_walk.txt", "r");
 	int i;
 	int ch, character = 0, line = 0;
 

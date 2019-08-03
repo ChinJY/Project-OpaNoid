@@ -1,12 +1,11 @@
 <?xml version="1.0"?>
 <package>
   <name>project_opanoid</name>
-  <version>0.4.0</version>
-  <description>The project_opanoid package</description>
-  <author email="davidvlu@gmail.com">David V. Lu!!</author>
-  <author email="paul@bovbel.com">Paul Bovbel</author>
+  <version>0.1.0</version>
+  <description>Project_opanoid</description>
+  <author email="chinjy2@gmail.com">Chin Jia Yi</author>
 
-  <maintainer email="davidvlu@gmail.com">David V. Lu!!</maintainer>
+  <maintainer email="chinjy2@gmail.com">Chin Jia Yi</maintainer>
 
   <license>BSD</license>
 

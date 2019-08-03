@@ -1,0 +1,924 @@
+<?xml version="1.0"?>
+<robot name="Opanoid_sketch">
+
+<!--materials-->
+  <material name="blue">
+    <color rgba="0 0 0.8 1"/>
+  </material>
+
+  <material name="white">
+    <color rgba="1 1 1 1"/>
+  </material>
+  
+<!--links-->
+<!--Pelvis-->
+  <link name="base_link">
+  	<visual>
+  		<geometry>
+				<box size="0.0825 0.218 0.0712"/>
+			</geometry>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.15 0.35 0.15"/>
+			</geometry>
+		</collision>
+		<inertial>
+      <mass value="0.272"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+	</link>
+	<link name="pelvis_lower">
+  	<visual>
+  		<geometry>
+				<box size="0.03 0.218 0.03"/>
+			</geometry>
+			<origin xyz="0 0 -0.015" rpy="0 0 0"/>
+			<material name="blue"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.15 0.35 0.15"/>
+			</geometry>
+			<origin xyz="0 0 -0.015" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.078"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+	</link>
+	<link name="servo_mounts">
+  	<visual>
+  		<geometry>
+				<box size="0.0525 0.2025 0.1525"/>
+			</geometry>
+			<origin xyz="0 0 0" rpy="0 0 0"/>
+			<material name="blue"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.15 0.35 0.15"/>
+			</geometry>
+			<origin xyz="0 0 -0.015" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.672"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+	</link>
+	<link name="l_pelvis_bracket_2">
+  	<visual>
+  		<geometry>
+				<box size="0.054 0.06 0.04"/>
+			</geometry>
+			<origin xyz="0 0 0" rpy="0 0 0"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.054 0.06 0.04"/>
+			</geometry>
+			<origin xyz="0 0 0" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.11"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="r_pelvis_bracket_2">
+  	<visual>
+  		<geometry>
+				<box size="0.054 0.06 0.04"/>
+			</geometry>
+			<origin xyz="0 0 0" rpy="0 0 0"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.054 0.06 0.04"/>
+			</geometry>
+			<origin xyz="0 0 0" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.11"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  
+<!--Left leg-->
+	<link name="l_pelvis_attachment">
+  	<visual>
+  		<geometry>
+				<box size="0.064 0.07925 0.157"/>
+			</geometry>
+			<origin xyz="0 0 -0.0665" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.064 0.007925 0.157"/>
+			</geometry>
+			<origin xyz="0 0 -0.0665" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.174"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="l_140mm_rail">
+  	<visual>
+  		<geometry>
+				<box size="0.0485 0.0715 0.14"/>
+			</geometry>
+			<origin xyz="0 0 -0.07" rpy="0 0 0"/>
+			<material name="blue"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.0485 0.0715 0.14"/>
+			</geometry>
+			<origin xyz="0 0 -0.07" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.03"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="l_servo_module_t1">
+  	<visual>
+  		<geometry>
+				<box size="0.0525 0.0345 0.1035"/>
+			</geometry>
+			<origin xyz="0 0.01725 0" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.0525 0.0345 0.1035"/>
+			</geometry>
+			<origin xyz="0 0.01725 0" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.118"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="l_u_knee_joint">
+  	<visual>
+  		<geometry>
+				<box size="0.061 0.07925 0.08"/>
+			</geometry>
+			<origin xyz="0 0 0.024" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.061 0.07925 0.08"/>
+			</geometry>
+			<origin xyz="0 0 0.024" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.048"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="l_joint_hinge">
+  	<visual>
+  		<geometry>
+				<cylinder radius="0.01625" length="0.0945"/>
+			</geometry>
+			<origin xyz="0 0 0" rpy="1.5708 0 0"/>
+			<material name=""/>
+		</visual>
+		<collision>
+  		<geometry>
+				<cylinder radius="0.0325" length="0.0945"/>
+			</geometry>
+			<origin xyz="0 0 0" rpy="1.5708 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.045"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="l_l_knee_joint">
+  	<visual>
+  		<geometry>
+				<box size="0.061 0.07175 0.08"/>
+			</geometry>
+			<origin xyz="0 0 -0.024" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.061 0.07175 0.08"/>
+			</geometry>
+			<origin xyz="0 0 -0.024" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.05"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="l_160mm_rail">
+  	<visual>
+  		<geometry>
+				<box size="0.0485 0.064 0.16"/>
+			</geometry>
+			<origin xyz="0 0 -0.08" rpy="0 0 0"/>
+			<material name="blue"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.0485 0.064 0.16"/>
+			</geometry>
+			<origin xyz="0 0 -0.08" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.035"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="l_servo_module_t2">
+  	<visual>
+  		<geometry>
+				<box size="0.029 0.055 0.0795"/>
+			</geometry>
+			<origin xyz="0.01 0 0" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.029 0.055 0.0795"/>
+			</geometry>
+			<origin xyz="0.01 0 0" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.105"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+	<link name="l_ankle_2">
+  	<visual>
+  		<geometry>
+				<box size="0.06 0.07175 0.0739"/>
+			</geometry>
+			<origin xyz="0 0 -0.035" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.06 0.07175 0.0739"/>
+			</geometry>
+			<origin xyz="0 0 -0.035" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.073"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="l_ankle_1">
+  	<visual>
+  		<geometry>
+				<box size="0.0515 0.0752 0.0792"/>
+			</geometry>
+			<origin xyz="0 0 -0.0396" rpy="0 0 0"/>
+			<material name="blue"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.0515 0.0752 0.0792"/>
+			</geometry>
+			<origin xyz="0 0 -0.0396" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.036"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="leftFoot">
+  	<visual>
+  		<geometry>
+				<box size="0.131 0.0627 0.025"/>
+			</geometry>
+			<origin xyz="0.0343 0 -0.0025" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.131 0.0627 0.025"/>
+			</geometry>
+			<origin xyz="0.0343 0 -0.0025" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.146"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="leftToe">
+  	<visual>
+  		<geometry>
+				<box size="0.0569 0.0632 0.02"/>
+			</geometry>
+			<origin xyz="0.01 0 0" rpy="0 0 0"/>
+			<material name="blue"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.0569 0.0632 0.02"/>
+			</geometry>
+			<origin xyz="0.01 0 0" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.42"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+
+<!--Right leg-->
+  <link name="r_pelvis_attachment">
+  	<visual>
+  		<geometry>
+				<box size="0.064 0.07925 0.157"/>
+			</geometry>
+			<origin xyz="0 0 -0.0665" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.064 0.07925 0.157"/>
+			</geometry>
+			<origin xyz="0 0 -0.0665" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.174"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="r_140mm_rail">
+  	<visual>
+  		<geometry>
+				<box size="0.0485 0.0715 0.14"/>
+			</geometry>
+			<origin xyz="0 0 -0.07" rpy="0 0 0"/>
+			<material name="blue"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.0485 0.0715 0.14"/>
+			</geometry>
+			<origin xyz="0 0 -0.07" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.03"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="r_servo_module_t1">
+  	<visual>
+  		<geometry>
+				<box size="0.0525 0.0345 0.1035"/>
+			</geometry>
+			<origin xyz="0 -0.01725 0" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.0525 0.0345 0.1035"/>
+			</geometry>
+			<origin xyz="0 -0.01725 0" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.118"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="r_u_knee_joint">
+  	<visual>
+  		<geometry>
+				<box size="0.061 0.07925 0.08"/>
+			</geometry>
+			<origin xyz="0 0 0.024" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.061 0.07925 0.08"/>
+			</geometry>
+			<origin xyz="0 0 0.024" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.048"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="r_joint_hinge">
+  	<visual>
+  		<geometry>
+				<cylinder radius="0.01625" length="0.0945"/>
+			</geometry>
+			<origin xyz="0 0 0" rpy="1.5708 0 0"/>
+			<material name=""/>
+		</visual>
+		<collision>
+  		<geometry>
+				<cylinder radius="0.0325" length="0.0945"/>
+			</geometry>
+			<origin xyz="0 0 0" rpy="1.5708 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.045"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="r_l_knee_joint">
+  	<visual>
+  		<geometry>
+				<box size="0.061 0.07175 0.08"/>
+			</geometry>
+			<origin xyz="0 0 -0.024" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.061 0.07175 0.08"/>
+			</geometry>
+			<origin xyz="0 0 -0.024" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.05"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="r_160mm_rail">
+  	<visual>
+  		<geometry>
+				<box size="0.0485 0.064 0.16"/>
+			</geometry>
+			<origin xyz="0 0 -0.08" rpy="0 0 0"/>
+			<material name="blue"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.0485 0.064 0.16"/>
+			</geometry>
+			<origin xyz="0 0 -0.08" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.035"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="r_servo_module_t2">
+  	<visual>
+  		<geometry>
+				<box size="0.029 0.055 0.0795"/>
+			</geometry>
+			<origin xyz="0.01 0 0" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.029 0.055 0.0795"/>
+			</geometry>
+			<origin xyz="0.01 0 0" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.105"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="r_ankle_2">
+  	<visual>
+  		<geometry>
+				<box size="0.06 0.07175 0.0739"/>
+			</geometry>
+			<origin xyz="0 0 -0.035" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.06 0.07175 0.0739"/>
+			</geometry>
+			<origin xyz="0 0 -0.035" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.073"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="r_ankle_1">
+  	<visual>
+  		<geometry>
+				<box size="0.0515 0.0752 0.0792"/>
+			</geometry>
+			<origin xyz="0 0 -0.0396" rpy="0 0 0"/>
+			<material name="blue"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.0515 0.0752 0.0792"/>
+			</geometry>
+			<origin xyz="0 0 -0.0396" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="10"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="rightFoot">
+  	<visual>
+  		<geometry>
+				<box size="0.131 0.0627 0.025"/>
+			</geometry>
+			<origin xyz="0.0343 0 -0.0025" rpy="0 0 0"/>
+			<material name="white"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.131 0.0627 0.025"/>
+			</geometry>
+			<origin xyz="0.0343 0 -0.0025" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.146"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="rightToe">
+  	<visual>
+  		<geometry>
+				<box size="0.0569 0.0632 0.02"/>
+			</geometry>
+			<origin xyz="0.015 0 0" rpy="0 0 0"/>
+			<material name="blue"/>
+		</visual>
+		<collision>
+  		<geometry>
+				<box size="0.0569 0.0632 0.02"/>
+			</geometry>
+			<origin xyz="0.01 0 0" rpy="0 0 0"/>
+		</collision>
+		<inertial>
+      <mass value="0.42"/>
+      <inertia ixx="0.4" ixy="0.0" ixz="0.0" iyy="0.4" iyz="0.0" izz="0.2"/>
+    </inertial>
+  </link>
+  <link name="imu_link">
+  	<collision>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <geometry>
+    		<box size="0 0 0"/>
+      </geometry>
+    </collision>
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <geometry>
+    		<box size="0.07 0.07 0.07"/>
+      </geometry>
+      <material name="white"/>
+    </visual>
+    <inertial>
+      <mass value="1e-5" />
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <inertia ixx="1e-6" ixy="0" ixz="0" iyy="1e-6" iyz="0" izz="1e-6" />
+    </inertial>
+  </link>
+
+<!--joints-->
+	<joint name="pelvis_internal" type="fixed">
+    <parent link="base_link"/>
+    <child link="pelvis_lower"/>
+		<origin xyz="0 0 -0.0325" rpy="0 0 0"/>
+  </joint>
+  
+  <joint name="pelvis_servo" type="fixed">
+    <parent link="base_link"/>
+    <child link="servo_mounts"/>
+		<origin xyz="0 0 0.05" rpy="0 0 0"/>
+  </joint>
+  
+	<joint name="leftThighY" type="revolute">
+    <parent link="pelvis_lower"/>
+    <child link="l_pelvis_bracket_2"/>
+    <axis xyz="0 -1 0"/>
+    <limit effort="100.0" lower="-1.570" upper="1.570" velocity="7.48"/>
+		<origin xyz="0 0.0385 -0.015" rpy="0 0 0"/>
+  </joint>
+  <transmission name="leftThighY_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$leftThighY_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="leftThighY">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+  
+  <joint name="leftThighX" type="revolute">
+    <parent link="l_pelvis_bracket_2"/>
+    <child link="l_pelvis_attachment"/>
+    <axis xyz="1 0 0"/>
+    <limit effort="100.0" lower="-0.15" upper="1.570" velocity="6.546"/>
+		<origin xyz="0 0.007 0" rpy="0 0 0"/>
+  </joint>
+  <transmission name="leftThighX_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$leftThighX_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="leftThighX">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+  
+  <joint name="l_upper_thigh" type="fixed">
+    <parent link="l_pelvis_attachment"/>
+    <child link="l_140mm_rail"/>
+		<origin xyz="0 0 -0.1" rpy="0 0 0"/>
+  </joint>
+  
+  <joint name="l_lower_thigh" type="fixed">
+    <parent link="l_140mm_rail"/>
+    <child link="l_u_knee_joint"/>
+		<origin xyz="0 0 -0.18" rpy="0 0 0"/>
+  </joint>
+  
+  <joint name="l_kneeServo" type="fixed">
+    <parent link="l_140mm_rail"/>
+    <child link="l_servo_module_t1"/>
+		<origin xyz="0 0 -0.09" rpy="0 0 0"/>
+  </joint>  
+  
+  <joint name="l_hinge" type="fixed">
+    <parent link="l_u_knee_joint"/>
+    <child link="l_joint_hinge"/>
+		<origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint>  
+  
+	<joint name="leftKnee" type="revolute">
+    <parent link="l_u_knee_joint"/>
+    <child link="l_l_knee_joint"/>
+    <axis xyz="0 1 0"/>
+    <limit effort="100.0" lower="0" upper="1.570" velocity="7.48"/>
+		<origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint>
+  <transmission name="leftKnee_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$leftKnee_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="leftKnee">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+  
+  <joint name="l_upper_calf" type="fixed">
+    <parent link="l_l_knee_joint"/>
+    <child link="l_160mm_rail"/>
+		<origin xyz="0 0 -0.05" rpy="0 0 0"/>
+  </joint>
+  
+  <joint name="leftCalf" type="fixed">
+    <parent link="l_160mm_rail"/>
+    <child link="l_ankle_2"/>
+    <axis xyz="0 1 0"/>
+    <limit effort="100.0" lower="0" upper="1.570" velocity="7.48"/>
+		<origin xyz="0 0 -0.15" rpy="0 0 0"/>
+  </joint>
+  
+  <joint name="l_ankleServo" type="fixed">
+    <parent link="l_160mm_rail"/>
+    <child link="l_servo_module_t2"/>
+		<origin xyz="0 0 -0.075" rpy="0 0 0"/>
+  </joint> 
+  
+  <joint name="leftAnkleX" type="revolute">
+    <parent link="l_ankle_2"/>
+    <child link="l_ankle_1"/>
+    <axis xyz="1 0 0"/>
+    <limit effort="100.0" lower="-1.570" upper="1.570" velocity="7.48"/>
+		<origin xyz="0 0 -0.04625" rpy="0 0 0"/>
+  </joint>
+  <transmission name="leftAnkleX_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$leftAnkleX_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="leftAnkleX">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+  
+  <joint name="leftAnkleY" type="revolute">
+    <parent link="l_ankle_1"/>
+    <child link="leftFoot"/>
+    <axis xyz="0 1 0"/>
+    <limit effort="100.0" lower="-1.570" upper="1.570" velocity="7.48"/>
+		<origin xyz="0 0 -0.07895" rpy="0 0 0"/>
+  </joint>
+  <transmission name="leftAnkleY_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$leftAnkleY_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="leftAnkleY">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+   
+  <joint name="leftToe" type="revolute">
+    <parent link="leftFoot"/>
+    <child link="leftToe"/>
+    <axis xyz="0 1 0"/>
+    <limit effort="100.0" lower="-1.570" upper="1.570" velocity="7.48"/>
+		<origin xyz="0.08545 0 -0.005" rpy="0 0 0"/>
+  </joint>
+  <transmission name="leftToe_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$leftToe_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="leftToe">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+  
+  <joint name="rightThighY" type="revolute">
+    <parent link="pelvis_lower"/>
+    <child link="r_pelvis_bracket_2"/>
+    <axis xyz="0 -1 0"/>
+    <limit effort="1000.0" lower="-1.570" upper="1.570" velocity="7.48"/>
+		<origin xyz="0 -0.0385 -0.015" rpy="0 0 0"/>
+  </joint>
+  <transmission name="rightThighY_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$rightThighY_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="rightThighY">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+  
+  <joint name="rightThighX" type="revolute">
+    <parent link="r_pelvis_bracket_2"/>
+    <child link="r_pelvis_attachment"/>
+    <axis xyz="-1 0 0"/>
+    <limit effort="100.0" lower="-0.15" upper="1.5705" velocity="6.546"/>
+		<origin xyz="0 -0.007 0" rpy="0 0 0"/>
+  </joint>
+  <transmission name="rightThighX_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$rightThighX_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="rightThighX">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+  
+  <joint name="r_upper_thigh" type="fixed">
+    <parent link="r_pelvis_attachment"/>
+    <child link="r_140mm_rail"/>
+		<origin xyz="0 0 -0.1" rpy="0 0 0"/>
+  </joint>
+  
+  <joint name="r_lower_thigh" type="fixed">
+    <parent link="r_140mm_rail"/>
+    <child link="r_u_knee_joint"/>
+		<origin xyz="0 0 -0.18" rpy="0 0 0"/>
+  </joint>
+  
+  <joint name="r_kneeServo" type="fixed">
+    <parent link="r_140mm_rail"/>
+    <child link="r_servo_module_t1"/>
+		<origin xyz="0 0 -0.09" rpy="0 0 0"/>
+  </joint>
+  
+  <joint name="r_hinge" type="fixed">
+    <parent link="r_u_knee_joint"/>
+    <child link="r_joint_hinge"/>
+		<origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint> 
+
+	<joint name="rightKnee" type="revolute">
+    <parent link="r_u_knee_joint"/>
+    <child link="r_l_knee_joint"/>
+    <axis xyz="0 1 0"/>
+    <limit effort="100.0" lower="0" upper="1.570" velocity="7.48"/>
+		<origin xyz="0 0 0" rpy="0 0 0" />
+  </joint>
+  <transmission name="rightKnee_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$rightKnee_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="rightKnee">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+  
+  <joint name="r_upper_calf" type="fixed">
+    <parent link="r_l_knee_joint"/>
+    <child link="r_160mm_rail"/>
+		<origin xyz="0 0 -0.05" rpy="0 0 0"/>
+  </joint>
+  
+  <joint name="rightCalf" type="fixed">
+    <parent link="r_160mm_rail"/>
+    <child link="r_ankle_2"/>
+    <axis xyz="0 1 0"/>
+    <limit effort="100.0" lower="0" upper="1.570" velocity="7.48"/>
+		<origin xyz="0 0 -0.15" rpy="0 0 0"/>
+  </joint>
+  
+  <joint name="r_ankleServo" type="fixed">
+    <parent link="r_160mm_rail"/>
+    <child link="r_servo_module_t2"/>
+		<origin xyz="0 0 -0.075" rpy="0 0 0"/>
+  </joint> 
+  
+  <joint name="rightAnkleX" type="revolute">
+    <parent link="r_ankle_2"/>
+    <child link="r_ankle_1"/>
+    <axis xyz="1 0 0"/>
+    <limit effort="100.0" lower="-1.570" upper="1.570" velocity="7.48"/>
+		<origin xyz="0 0 -0.04625" rpy="0 0 0"/>
+  </joint>
+  <transmission name="rightAnkleX_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$rightAnkleX_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="rightAnkleX">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+  
+  <joint name="rightAnkleY" type="revolute">
+    <parent link="r_ankle_1"/>
+    <child link="rightFoot"/>
+    <axis xyz="0 1 0"/>
+    <limit effort="100.0" lower="-1.570" upper="1.570" velocity="7.48"/>
+		<origin xyz="0 0 -0.07895" rpy="0 0 0"/>
+  </joint>
+  <transmission name="rightAnkleY_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$rightAnkleY_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="rightAnkleY">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+  
+  <joint name="rightToe" type="revolute">
+    <parent link="rightFoot"/>
+    <child link="rightToe"/>
+    <axis xyz="0 1 0"/>
+    <limit effort="100.0" lower="-1.570" upper="1.570" velocity="7.48"/>
+		<origin xyz="0.08545 0 -0.005" rpy="0 0 0"/>
+  </joint>
+  <transmission name="rightToe_trans">
+    <type>transmission_interface/SimpleTransmission</type>
+    <actuator name="$rightToe_motor">
+      <mechanicalReduction>1</mechanicalReduction>
+    </actuator>
+    <joint name="rightToe">
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+    </joint>
+  </transmission>
+  
+  <joint name="imu_joint" type="fixed">
+    <axis xyz="0 1 0" />
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+    <parent link="base_link"/>
+    <child link="imu_link"/>
+  </joint>
+  
+  <gazebo reference="imu_link">
+    <gravity>true</gravity>
+    <sensor name="imu_sensor" type="imu">
+      <always_on>true</always_on>
+      <update_rate>100</update_rate>
+      <visualize>true</visualize>
+      <topic>__default_topic__</topic>
+      <plugin filename="libgazebo_ros_imu_sensor.so" name="imu_plugin">
+        <topicName>imu</topicName>
+        <bodyName>imu_link</bodyName>
+        <updateRateHZ>10.0</updateRateHZ>
+        <gaussianNoise>0.0</gaussianNoise>
+        <xyzOffset>0 0 0</xyzOffset>
+        <rpyOffset>0 0 0</rpyOffset>
+        <frameName>imu_link</frameName>
+      </plugin>
+      <pose>0 0 0 0 0 0</pose>
+    </sensor>
+  </gazebo>
+  
+  <gazebo>
+    <plugin name="gazebo_ros_control" filename="libgazebo_ros_control.so">
+      <robotNamespace>/</robotNamespace>
+    </plugin>
+  </gazebo> 
+  
+</robot>
