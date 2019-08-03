@@ -26,3 +26,6 @@
 -   ROS package
 
     -   Copy the "project_opanoid" folder into the source folder of your ROS workspace 
+    -		In Terminal, change directory to root folder of your ROS workspace
+    -   Type "source devel/setup.bash"
+    -   Enter 
