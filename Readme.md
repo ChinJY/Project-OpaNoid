@@ -15,16 +15,14 @@
 
 ### Getting started
 
--   *Print guide*
+-   Print guide
 
--   *Bill of materials *
+-   [Bill of materials] (Hardware/Bill of materials.pdf)
 
--   *Assembly manual*
+-   Software setup
 
--   *Software setup*
+-   Contribution Guidelines
 
--   *Contribution Guidelines *
+-   Code of conduct
 
--   *Code of conduct *
-
--   *Technical documentation *
+-   Technical documentation

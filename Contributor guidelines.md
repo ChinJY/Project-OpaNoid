@@ -8,9 +8,7 @@ a pull request. 
 
 ### Design Considerations of Project OpaNoid
 
-These design considerations serve as
-guidelines to increase the ease with which you can integrate your hardware contributions
-with the project, and are by no means* *supposed to be definitive.
+These design considerations serve as guidelines to increase the ease with which you can integrate your hardware contributions with the project, and are by no means supposed to be definitive.
 
 ### Design Ideology (as stated in Readme)
 
@@ -90,8 +88,6 @@ with the project, and are by no means* *supposed to be definitive.
 
 -   Hence, contributors are encouraged to add to, rather than replace existing
     material
-
--   In your issue 
 
 -   If you intend to override an existing file with a new one, please
     refrain from deleting it in your fork. Instead, append your contribution
