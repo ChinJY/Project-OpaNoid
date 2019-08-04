@@ -19,7 +19,7 @@
 
 -   Print guide
 
--   **[Bill of materials](Hardware/Bill of materials.pdf)**
+-   [Bill of materials](Hardware/Bill_of_materials.pdf)
 
 -   [Software setup](Software/Software_readme.md)
 
