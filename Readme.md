@@ -1,3 +1,5 @@
+#Project OpaNoid
+
 -   Project OpaNoid is an teen to adult-sized humanoid robot designed
     for education and research. It is highly modular
     and can be modified on the fly using only simple tools such as hex-head
@@ -17,7 +19,7 @@
 
 -   Print guide
 
--   [Bill of materials](Hardware/Bill of materials.pdf)
+-   **[Bill of materials](Hardware/Bill of materials.pdf)**
 
 -   Software setup
 
