@@ -70,9 +70,9 @@ These design considerations serve as guidelines to increase the ease wit
         with greater authority through the positioning of servos and electronics
         within the frame
 
-### Technical documentation 
+### Hardware documentation 
 
--   Please refer to the *technical documentation* for schematics of the
+-   Please refer to ```Hardware/Schematics``` for schematics of the
     OpaRail system and rail spacings within the limbs and torso 
 
 ### How do I contribute?
