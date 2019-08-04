@@ -6,7 +6,7 @@ your own settings, especially if you are using a different material.
 
 **Nozzle diameter:** 0.4mm
 
-**Layer height: **
+**Layer height:**
 
 -   0.1mm for gears 
 
