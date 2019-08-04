@@ -23,7 +23,7 @@
 
     -   Save ```Software/Raspberry Pi/Opanoid_controller.c``` into your robot's Raspberry Pi 
 
-    -   On your Raspberry Pi, place the motion capture log that you generated using Kinect into the same folder as the controller program
+    -   On your Raspberry Pi, transfer the motion capture log in ```Software/project_opanoid/walk_data``` into the same folder as the controller program
 
     -   Replace the path in line 29 of the controller program to the that of the motion capture log
 
