@@ -3,7 +3,7 @@
 
 -   Install VNC solution (e.g. VNC viewer)
 
--   Generate motion capture logs using Kinect program on PC
+-   *Generate motion capture logs using Kinect on PC*
 
     -   Install kinect
         sdk: <https://www.microsoft.com/en-us/download/details.aspx?id=44561>
@@ -19,17 +19,17 @@
     
     -   Copy the motion capture log into ```Software/project_opanoid/walk_data```
 
--   Controller program on raspberry pi
+-   *Controller program on raspberry pi*
 
-    -   Save the program into the Raspberry Pi 
+    -   Save ```Software/Raspberry Pi/Opanoid_controller.c``` into your robot's Raspberry Pi 
 
-    -   Place the movement log file into the same folder as the controller program
+    -   On your Raspberry Pi, place the motion capture log that you generated using Kinect into the same folder as the controller program
 
-    -   Change path in line "" to that of movement log file 
+    -   Replace the path in line 29 of the controller program to the that of the motion capture log
 
-    -   Run the controller program to make OpaNoid move in accordance with the movement log file
+    -   Run the controller program to make OpaNoid move in accordance with the motion capture log
     
--   ROS package
+-   *ROS package*
 
     -   Copy the ```project_opanoid``` folder into the source folder of your ROS workspace
         

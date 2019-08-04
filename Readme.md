@@ -17,7 +17,7 @@
 
 ### Open Source
 
-Project OpaNoid is open source under the Creative Commons BY-SA 4.0 for hardware and GNU GPL v3 for software.
+Project OpaNoid is open source under Creative Commons BY-SA 4.0 for hardware and GNU GPL v3 for software.
 
 
 ### Getting started
