@@ -19,14 +19,12 @@
 
 -   Print guide
 
--   [Bill of materials](Hardware/Bill_of_materials.pdf)
+-   [Bill of materials](Hardware/Bill%20of%20materials.pdf)
 
 -   [Printing guidelines](Hardware/Print%20settings.md)
 
--   [Software setup](Software/Software_readme.md)
+-   [Software setup](Software/Software%20readme.md)
 
 -   [Contribution Guidelines](Contributor%20guidelines.md)
 
--   Code of conduct
-
--   Technical documentation
+-   [Codes of conduct](Codes%20of%20conduct.md)
