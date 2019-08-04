@@ -21,7 +21,7 @@
 
 -   **[Bill of materials](Hardware/Bill of materials.pdf)**
 
--   Software setup
+-   [Software setup](Software/Software_readme.md)
 
 -   Contribution Guidelines
 
