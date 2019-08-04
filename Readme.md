@@ -17,7 +17,7 @@
 
 -   Print guide
 
--   [Bill of materials] (Hardware/Bill of materials.pdf)
+-   [Bill of materials](Hardware/Bill of materials.pdf)
 
 -   Software setup
 
