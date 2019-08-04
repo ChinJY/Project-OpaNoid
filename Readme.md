@@ -17,8 +17,6 @@
 
 ### Getting started
 
--   Print guide
-
 -   [Bill of materials](Hardware/Bill%20of%20materials.pdf)
 
 -   [Printing guidelines](Hardware/Print%20settings.md)
