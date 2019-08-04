@@ -13,13 +13,7 @@
     without modification to the core structure through the use of
     rail-mountings)
 
-**Current Progress **
-
--   At present, version 1.0 of the lower body and CAD work for the upper body
-    has been completed. The community is take part in the finalisation of
-    version 1.0 of the upper body.
-
-**Getting started **
+### Getting started
 
 -   *Print guide*
 

@@ -4,15 +4,15 @@ OpaNoid. Above all, these are guidelines, not rules. Use your
 best judgement, and feel free to propose changes to this document through
 a pull request. 
 
-**Getting started **
+## Getting started
 
-*Design Considerations of Project OpaNoid *
+### Design Considerations of Project OpaNoid
 
 These design considerations serve as
 guidelines to increase the ease with which you can integrate your hardware contributions
 with the project, and are by no means* *supposed to be definitive.
 
-*Design Ideology* (as stated in Readme)
+### Design Ideology (as stated in Readme)
 
 -   By focusing on the humanoid form, greater attention can be paid to the key
     objectives of Project Opanoid; namely its variable mass distribution,
@@ -21,7 +21,7 @@ with the project, and are by no means* *supposed to be definitive.
     without modification to the core structure through the use of rail
     mountings)
 
-*Designing for FDM printing *
+### Designing for FDM printing
 
 -   Certain parts have had a portion of their bases raised to facilitate removal
     from the build plate
@@ -50,7 +50,7 @@ with the project, and are by no means* *supposed to be definitive.
     materials and time (you don't want to spend hours printing a part for the
     left knee only to realise it was the right knee that needed the part!)
 
-*Functional Considerations *
+### Functional Considerations
 
 -   Parts are designed to be "open" to increase accessibility during assembly
     and minimise mass
@@ -72,14 +72,14 @@ with the project, and are by no means* *supposed to be definitive.
         with greater authority through the positioning of servos and electronics
         within the frame
 
->   Technical documentation 
+### Technical documentation 
 
 -   Please refer to the *technical documentation* for schematics of the
     OpaRail system and rail spacings within the limbs and torso 
 
-**How do I contribute?**
+### How do I contribute?
 
-*Hardware*** **
+#### Hardware
 
 -   Due to the modularity of Project OpaNoid, it is possible to add new ideas
     without overriding existing ones
@@ -99,10 +99,9 @@ with the project, and are by no means* *supposed to be definitive.
     file you wish to replace in the pull request, and we
     will review your request 
 
-    -   We may decide
-        to add your contribution but preserve the file you wish to replace 
+    -   We may decide to add your contribution but preserve the file you wish to replace 
 
-*Software* 
+#### Software
 
 -   The software for Project OpaNoid is at a
     lower developmental state than the hardware. As such, contributions to flesh

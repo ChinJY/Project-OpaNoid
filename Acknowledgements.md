@@ -16,3 +16,6 @@ AX-12A:  <https://grabcad.com/library/servo-dynamixel-ax-12a-1>
 
 CR-10S: 
 <https://grabcad.com/library/modified-creality-cr-10s-s3-model-3d-printer-assembly-1>
+
+DQN template:
+<https://github.com/sezan92/self_balancing_robot>

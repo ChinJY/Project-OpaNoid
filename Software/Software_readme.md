@@ -49,4 +49,4 @@
                  
         -   ```roslaunch project_opanoid main_DQN.launch``` to make OpaNoid walk in Gazebo using a Deep Q Network Controller (not working at the moment)
     
-    -   You can alter the urdf file of the robot in ```Software/project_opanoid/urdf/opanoid_full.urdf```
+    -   You can alter the simulated robot robot at ```Software/project_opanoid/urdf/opanoid_full.urdf```
