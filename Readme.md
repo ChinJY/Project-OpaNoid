@@ -15,6 +15,11 @@
     without modification to the core structure through the use of
     rail-mountings)
 
+### Open Source
+
+Project OpaNoid is open source under the Creative Commons BY-SA 4.0 for hardware and GNU GPL v3 for software.
+
+
 ### Getting started
 
 -   [Bill of materials](Hardware/Bill%20of%20materials.pdf)
